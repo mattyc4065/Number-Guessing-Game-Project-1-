@@ -9,7 +9,7 @@ NOTE: If you strongly prefer to work locally on your own computer, you can total
 
 """
 
-import random
+import random #test comment
 
 
 def start_game():
